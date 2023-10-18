@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>진행 기간</td>
-    <td><s>시즌1: 2023년 10월 18일 ~ </td>
+    <td>시즌1: 2023년 10월 18일 ~ </td>
   </tr>
   <tr>
     <td>스터디 장소</td>
@@ -50,7 +50,6 @@
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr> 
 </table>
 
@@ -63,7 +62,7 @@
 <br/>
 
 ## 📌 스터디 규칙
-- 스터디는 온라인으로 2시간 진행한다.
+- 스터디는 오프라인으로 약 2시간 진행.
   - 1시간 30분: 문제 풀이
   - 30분: 당일 알고리즘 풀이 공유
 - 당일에 알고리즘 문제 2~3개 선정하여 푼다.
