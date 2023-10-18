@@ -34,17 +34,16 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/Be-HinD"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/eunalove"><img src="https://avatars.githubusercontent.com/HyowonSin" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Be-HinD"><img src="https://avatars.githubusercontent.com/Be-HinD" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/eunalove"><img src="https://avatars.githubusercontent.com/eunalove" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/kimhaechang1"><img src="https://avatars.githubusercontent.com/kimhaechang1" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Kimjuyi"><img src="https://avatars.githubusercontent.com/Kimjuyi" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><b>jinny-l</b></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></a></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></a></td>
-    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Gwonwoo-Nam</b></a></td>
+    <td align="center"><a href="https://github.com/Be-HinD"><b>Be-HinD</b></a></td>
+    <td align="center"><a href="https://github.com/eunalove"><b>eunalove</b></a></td>
+    <td align="center"><a href="https://github.com/kimhaechang1"><b>kimhaechang1</b></a></td>
+    <td align="center"><a href="https://github.com/Kimjuyi"><b>Kimjuyi</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
