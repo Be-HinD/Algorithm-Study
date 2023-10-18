@@ -2,29 +2,28 @@
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-flat&amp;logo=notion&amp;logoColor=white" alt="Notion">
 </a>
 
-# 🖥 알고리즘 스터디 - 시즌2
+# 🖥 알고리즘 스터디 - 10월 페어
 
 <table>
   <tr>
     <td>진행 기간</td>
-    <td><s>시즌1: 2023년 2월 20일 ~ 2023년 7월 30일</s><br/>시즌2: 2023년 7월 31일 ~ </td>
+    <td><s>시즌1: 2023년 10월 18일 ~ </td>
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>온라인, 강남역</td>
+    <td>오프라인, 진평동 카페</td>
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>수요일 19:00 ~ 21:00 [2h] <br> 금요일 19:00 ~ 21:00 [2h]
+    <td>수요일 19:00 ~ 21:00 [2h] [2h]
   </tr>
   <tr>
     <td>플랫폼</td>
-    <td>프로그래머스</td>
+    <td>백준</td>
   </tr>
   <tr>
     <td>언어</td>
-    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
     </td>
   </tr>
 </table>
