@@ -55,12 +55,6 @@
 
 <br/>
 
-## 🗂️ 시즌1 DOCS
-- [시즌1 진행 상황](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study/blob/main/docs/%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9/%EC%8B%9C%EC%A6%8C1_2%EC%9B%94-7%EC%9B%94_%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9.md)
-- [시즌1 일정표](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study/blob/main/docs/%EB%AC%B8%EC%A0%9C/%EC%8B%9C%EC%A6%8C1_2%EC%9B%94-7%EC%9B%94_%EB%AC%B8%EC%A0%9C.md)
-
-<br/>
-
 ## 📌 스터디 규칙
 - 스터디는 오프라인으로 약 2시간 진행.
   - 1시간 30분: 문제 풀이
