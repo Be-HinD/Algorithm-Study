@@ -34,11 +34,10 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Be-HinD"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/eunalove"><img src="https://avatars.githubusercontent.com/HyowonSin" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jinny-l"><b>jinny-l</b></a></td>
